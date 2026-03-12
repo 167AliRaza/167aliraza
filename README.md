@@ -1,38 +1,139 @@
-<h1 align="center">Hi 👋, I'm Ali Raza</h1>
-<h3 align="center">Python Backend Developer | AI & LLM Applications</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=167aliraza&label=Profile%20views&color=0e75b6&style=flat" alt="167aliraza" /> </p>
+# Hey, I'm Ali Raza 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=167aliraza" alt="167aliraza" /></a> </p>
+### Python Backend Developer · AI & LLM Applications · RAG Systems
 
-<p align="left"> <a href="https://twitter.com/167aliraza" target="blank"><img src="https://img.shields.io/twitter/follow/167aliraza?logo=twitter&style=for-the-badge" alt="167aliraza" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/167aliraza)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/167aliraza)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:167aliraza@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Faisalabad,_Pakistan-555555?style=for-the-badge)](https://maps.google.com/?q=Faisalabad,Pakistan)
 
-- 📫 How to reach me **167aliraza@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JCFJpfwZiTLrNHWzlHt5OwZZb0OT6D8Q/view?usp=sharing](https://drive.google.com/file/d/1JCFJpfwZiTLrNHWzlHt5OwZZb0OT6D8Q/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/167aliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="167aliraza" height="30" width="40" /></a>
-<a href="https://dev.to/167aliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="167aliraza" height="30" width="40" /></a>
-<a href="https://twitter.com/167aliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="167aliraza" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/167aliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="167aliraza" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/167aliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="167aliraza" height="30" width="40" /></a>
-<a href="https://codesandbox.com/167aliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="167aliraza" height="30" width="40" /></a>
-<a href="https://kaggle.com/167aliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="167aliraza" height="30" width="40" /></a>
-<a href="https://fb.com/167aliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="167aliraza" height="30" width="40" /></a>
-<a href="https://instagram.com/167aliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="167aliraza" height="30" width="40" /></a>
-<a href="https://medium.com/167aliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="167aliraza" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/167aliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="167aliraza" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/167aliraza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="167aliraza" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/167aliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="167aliraza" height="30" width="40" /></a>
-</p>
+## 🧠 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+> *"Building intelligent systems that think, retrieve, and respond — one pipeline at a time."*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=167aliraza&show_icons=true&locale=en&layout=compact" alt="167aliraza" /></p>
+I'm a **Python Backend Developer** specializing in **AI-powered applications**, **LLM agents**, and **Retrieval-Augmented Generation (RAG)** systems. I design scalable APIs with FastAPI and build intelligent agentic workflows using LangGraph, vector databases, and modern cloud-native tools.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=167aliraza&show_icons=true&locale=en" alt="167aliraza" /></p>
+- 🔭 Currently building production-grade AI assistants and RAG chatbots at **RankSol**
+- 🤖 Passionate about **LLM orchestration**, **agentic workflows**, and **semantic search**
+- 🧩 Love turning complex AI concepts into clean, maintainable backend systems
+- 📚 Continuously leveling up in **multi-agent systems** and **cloud-native AI**
+- 🎓 BS Information Technology — **Government College University Faisalabad** (2021–2025)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=167aliraza&" alt="167aliraza" /></p>
+---
+
+## ⚙️ Tech Stack
+
+### 🐍 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-FF4154?style=flat-square&logoColor=white)
+
+### 🤖 AI / LLM
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_Agent_SDK-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-FF6B6B?style=flat-square&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🗞️ News Agent
+> *AI-powered news analysis agent with real-time retrieval and LLM summarization*
+
+- Built with **LangGraph** + **FastAPI** for agentic news workflow orchestration
+- Integrated **Tavily Search API** for live, real-time news retrieval
+- Secured with **JWT Authentication** and persistent **MongoDB** conversation history
+- Enables intelligent querying and LLM-powered summarization of trending news topics
+
+---
+
+### 📄 Chat with PDF
+> *RAG-based document assistant — upload a PDF, ask anything*
+
+- Developed a full **RAG pipeline** with vector search and semantic retrieval
+- Users upload PDFs and receive contextually grounded, accurate responses
+- Built end-to-end with **FastAPI** and custom embedding pipelines
+
+---
+
+### 🛍️ Shopify Store Assistant
+> *Intelligent customer support powered by vector search*
+
+- RAG-powered assistant for handling real-time product queries and FAQs
+- Retrieves and ranks relevant store data using **vector similarity search**
+- Designed for scalable, automated customer support on Shopify stores
+
+---
+
+## 💼 Experience
+
+### AI Software Developer — RankSol
+📅 *September 2025 – March 2026*
+
+- 🏗️ Built RAG-based chatbots using vector databases and custom retrieval pipelines
+- 🏥 Developed AI assistants for **construction planning** and **medical safety guidance**
+- 🔗 Designed scalable AI workflows using **LangChain** and **LangGraph**
+- ⚡ Developed production REST APIs with **Python** and **FastAPI** for AI services
+- 🎯 Improved LLM response accuracy by grounding outputs with structured retrieval
+
+---
+
+## 🎓 Certifications
+
+| Certificate | Institution | Year |
+|---|---|---|
+| ☁️ Cloud-Native Applied AI Agentic | S.M.I.T | 2024–25 |
+| 🤖 Agentic AI and AI Agents: A Primer for Leaders | Vanderbilt University | 2025 |
+| 🧩 AI Agents: From Prompts to Multi-Agent Systems | UC Davis | 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=167aliraza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=167aliraza&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=167aliraza&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on interesting AI projects, discussing LLM engineering, or exploring new opportunities.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/167aliraza)
+[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:167aliraza@gmail.com)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=167aliraza&color=0A66C2&style=flat-square&label=Profile+Views)
+
+*"The best way to predict the future is to build it — one agent at a time."*
+
+</div>
