@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/167aliraza)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/167aliraza)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:167aliraza@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Faisalabad,_Pakistan-555555?style=for-the-badge)](https://maps.google.com/?q=Faisalabad,Pakistan)
 
 </div>
 
