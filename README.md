@@ -114,8 +114,7 @@ I'm a **Python Backend Developer** specializing in **AI-powered applications**, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=167aliraza&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=167aliraza&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=167aliraza&theme=tokyonight&hide_border=true&cache_seconds=86400)
 </div>
 
 ---
