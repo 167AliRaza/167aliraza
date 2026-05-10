@@ -110,11 +110,22 @@ I'm a **Python Backend Developer** specializing in **AI-powered applications**, 
 
 <div align="center">
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=167aliraza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=167aliraza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Ali's Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=167aliraza&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=167aliraza&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=167aliraza&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=167aliraza&theme=tokyonight&hide_border=true&cache_seconds=86400)
 </div>
 
 ---
