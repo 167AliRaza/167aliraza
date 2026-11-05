@@ -1,6 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ali%20Raza&fontSize=42&fontColor=fff&fontAlignY=32&desc=AI%20%26%20Automation%20Developer&descSize=16&descAlignY=52"/>
-
 <div align="center">
+
+# Hey, I'm Ali Raza 👋
+
+### AI & Automation Developer · LLM Agents · RAG Systems · Workflow Automation
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=AI+%26+Automation+Developer;I+build+LLM+Agents+%26+RAG+Systems;I+automate+workflows+with+n8n+%26+Make.com;Python+%7C+FastAPI+%7C+LangGraph+%7C+LangChain)](https://github.com/167aliraza)
 
