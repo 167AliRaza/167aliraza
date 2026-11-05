@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Raza&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Automation%20Developer&descSize=16&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ali%20Raza&fontSize=42&fontColor=fff&fontAlignY=32&desc=AI%20%26%20Automation%20Developer&descSize=16&descAlignY=52"/>
 
 <div align="center">
 
@@ -143,18 +143,15 @@ I'm an **AI & Automation Developer** specializing in **LLM-based agents**, **Ret
 
 <div align="center">
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=167AliRaza&theme=tokyo_night" alt="Profile Details" width="100%" />
+
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=167aliraza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Ali's Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=167AliRaza&theme=tokyo_night" alt="Ali's Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=167aliraza&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=167aliraza&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=167AliRaza&theme=tokyo_night" alt="Repos per Language" />
       </td>
     </tr>
   </table>
@@ -162,18 +159,6 @@ I'm an **AI & Automation Developer** specializing in **LLM-based agents**, **Ret
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/167AliRaza/167aliraza/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/167AliRaza/167aliraza/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/167AliRaza/167aliraza/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
@@ -192,4 +177,4 @@ I'm always open to collaborating on interesting AI projects, discussing LLM engi
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
