@@ -1,8 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Raza&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Automation%20Developer&descSize=16&descAlignY=52"/>
+
 <div align="center">
 
-# Hey, I'm Ali Raza 👋
-
-### AI & Automation Developer · LLM Agents · RAG Systems · Workflow Automation
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=AI+%26+Automation+Developer;I+build+LLM+Agents+%26+RAG+Systems;I+automate+workflows+with+n8n+%26+Make.com;Python+%7C+FastAPI+%7C+LangGraph+%7C+LangChain)](https://github.com/167aliraza)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/167aliraza)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/167aliraza)
@@ -27,73 +27,86 @@ I'm an **AI & Automation Developer** specializing in **LLM-based agents**, **Ret
 
 ---
 
+## 🎯 What I Do
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 AI Agents & RAG</h3>
+      <p>Agentic workflows and chatbots with LangGraph, LangChain, OpenAI Agent SDK and Google ADK — grounded in your data with vector search and structured retrieval.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Backend & APIs</h3>
+      <p>Production REST APIs with Python and FastAPI — JWT auth, streaming responses, background processing, and MongoDB/PostgreSQL persistence.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔁 Workflow Automation</h3>
+      <p>Business operations automated end-to-end with n8n and Make.com — third-party API integrations, lead handling, notifications, and reporting.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ⚙️ Tech Stack
 
-### 🐍 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<div align="center">
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_Databases-FF4154?style=flat-square&logoColor=white)
+**Languages & Backend**
 
-### 🤖 AI / LLM
+[![Skills](https://skillicons.dev/icons?i=python,fastapi,typescript,react,nodejs)](https://skillicons.dev)
+
+**Databases & Cloud**
+
+[![Skills](https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github)](https://skillicons.dev)
+
+**AI / LLM**
+
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_Agent_SDK-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Systems-FF6B6B?style=flat-square&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### 🔁 Automation & Tools
+**Automation**
+
 ![n8n](https://img.shields.io/badge/n8n_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 [Memora](https://github.com/167AliRaza/Memora)
-> *RAG-based chat API with persistent, threaded conversations*
-
-- FastAPI backend with **LangGraph** conversation checkpoints and threaded memory
-- Document upload with background processing, chunking, and **Pinecone** vector indexing
-- JWT authentication, streaming responses (SSE), and MongoDB persistence
-- Google Gemini models for chat and embeddings
-
----
-
-### 🎓 Campus Connect
-> *Multi-tenant SaaS RAG chatbot for campuses* — [Backend](https://github.com/167AliRaza/Campus-Connect-Backend) · [Frontend](https://github.com/167AliRaza/Campus-Connect-Frontend)
-
-- Multi-tenant architecture serving separate campus knowledge bases from one system
-- Agentic retrieval built with **LangGraph** for grounded, source-backed answers
-- Python/FastAPI backend with a TypeScript frontend
-
----
-
-### 📄 [Chat with PDF](https://github.com/167AliRaza/chat_with_pdf)
-> *RAG-based document assistant — upload a PDF, ask anything*
-
-- Developed a full **RAG pipeline** with vector search and semantic retrieval
-- Users upload PDFs and receive contextually grounded, accurate responses
-- Built end-to-end with **FastAPI** and custom embedding pipelines
-
----
-
-### 🗞️ News Agent
-> *AI-powered news analysis agent with real-time retrieval and LLM summarization*
-
-- Built with **LangGraph** + **FastAPI** for agentic news workflow orchestration
-- Integrated **Tavily Search API** for live, real-time news retrieval
-- Secured with **JWT Authentication** and persistent **MongoDB** conversation history
-- Enables intelligent querying and LLM-powered summarization of trending news topics
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/167AliRaza/Memora">Memora</a></h3>
+      <p><i>RAG-based chat API with persistent, threaded conversations</i></p>
+      <p>FastAPI + LangGraph checkpoints, document upload with background indexing into Pinecone, JWT auth, streaming (SSE), MongoDB persistence, Gemini models.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Campus Connect</h3>
+      <p><i>Multi-tenant SaaS RAG chatbot for campuses</i></p>
+      <p>One system serving separate campus knowledge bases. LangGraph agentic retrieval for grounded, source-backed answers. <a href="https://github.com/167AliRaza/Campus-Connect-Backend">Backend</a> · <a href="https://github.com/167AliRaza/Campus-Connect-Frontend">Frontend</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/167AliRaza/chat_with_pdf">Chat with PDF</a></h3>
+      <p><i>RAG document assistant — upload a PDF, ask anything</i></p>
+      <p>Full RAG pipeline with vector search and semantic retrieval; contextually grounded answers built end-to-end with FastAPI and custom embedding pipelines.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗞️ News Agent</h3>
+      <p><i>AI news analysis agent with real-time retrieval</i></p>
+      <p>LangGraph + FastAPI orchestration, Tavily Search API for live news, JWT auth and MongoDB conversation history, LLM-powered summarization of trending topics.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -106,15 +119,12 @@ I'm an **AI & Automation Developer** specializing in **LLM-based agents**, **Ret
 - 🔁 Design automated workflows and third-party API integrations with **n8n** and **Make.com**
 - ⚡ Develop production APIs and AI services with **Python** and **FastAPI**
 
----
-
 ### AI Software Developer — RankSol, Faisalabad
 📅 *September 2025 – March 2026*
 
 - 🏗️ Built RAG-based chatbots using vector databases and custom retrieval pipelines
 - 🏥 Developed AI assistants for **construction planning** and **medical safety guidance**
 - 🔗 Designed scalable AI workflows using **LangChain** and **LangGraph**
-- ⚡ Developed production REST APIs with **Python** and **FastAPI** for AI services
 - 🎯 Improved LLM response accuracy by grounding outputs with structured retrieval
 
 ---
@@ -153,6 +163,20 @@ I'm an **AI & Automation Developer** specializing in **LLM-based agents**, **Ret
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/167AliRaza/167aliraza/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/167AliRaza/167aliraza/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/167AliRaza/167aliraza/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always open to collaborating on interesting AI projects, discussing LLM engineering, or exploring new opportunities.
@@ -162,10 +186,10 @@ I'm always open to collaborating on interesting AI projects, discussing LLM engi
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/167aliraza)
 [![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:167aliraza@gmail.com)
 
----
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=167aliraza&color=0A66C2&style=flat-square&label=Profile+Views)
 
 *"The best way to predict the future is to build it — one agent at a time."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
